@@ -2,7 +2,7 @@
 El proyecto cuenta con 2 repositorios [frontend](https://github.com/joanccresources/atix-todo-list-frontend)<span style="font-size: 12px">(Donde estamos ahora)</span> y [backend](https://github.com/joanccresources/atix-todo-list-backend).
 
 ## Demostracion
-- Para probar el proyecto desde Produccion primero debemos habilitar la API que esta subida en 'render.com' asi que debemos ingresar a este [enlace](https://atix-todo-list-backend.onrender.com/) y esperar a que cargue.
+- Para probar el proyecto desde Produccion primero debemos habilitar la API que esta subida en 'render.com' asi que debemos ingresar a este [enlace](https://atix-todo-list-backend.onrender.com/) y esperar a que cargue. (Al ser un servidor gratuito puede tardar hasta 1 minuto la primera carga)
   - ![01](./public/01-enlace-api.jpg)
 
 - Ahora ingresamos a nuestra Frontend Web [https://joanccresources.github.io/atix-todo-list-frontend/#/auth/login](https://joanccresources.github.io/atix-todo-list-frontend/#/auth/login).
